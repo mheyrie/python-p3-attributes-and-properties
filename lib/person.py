@@ -16,4 +16,7 @@ APPROVED_JOBS = [
 ]
 
 class Person:
+    def __init__(self, name):
+        
+        pass
     pass
